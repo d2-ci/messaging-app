@@ -1,28 +1,5 @@
 {
   "name": "messaging-app",
   "version": "31.0.0",
-  "license": "BSD-3-Clause",
-  "jest": {
-    "automock": false,
-    "collectCoverageFrom": [
-      "src/**/*.{js,jsx,mjs}"
-    ],
-    "setupFiles": [
-      "<rootDir>/config/polyfills.js"
-    ],
-    "testMatch": [
-      "<rootDir>/app/src/**/__tests__/**/*.{js,jsx,mjs}",
-      "<rootDir>/app/src/**/?(*.)(spec|test).{js,jsx,mjs}"
-    ],
-    "testEnvironment": "node",
-    "testURL": "http://localhost",
-    "moduleNameMapper": {
-      "^actions[/](.+)": "<rootDir>/app/src/actions/$1",
-      "^api[/](.+)": "<rootDir>/app/src/api/$1",
-      "^constants[/](.+)": "<rootDir>/app/src/constants/$1",
-      "^components[/](.+)": "<rootDir>/app/src/components/$1",
-      "^reducers[/](.+)": "<rootDir>/app/src/reducers/$1",
-      "^utils[/](.+)": "<rootDir>/app/src/utils/$1"
-    }
-  }
+  "license": "BSD-3-Clause"
 }
