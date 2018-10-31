@@ -1,5 +1,6 @@
 {
   "name": "messaging-app",
-  "version": "31.0.0",
-  "license": "BSD-3-Clause"
+  "description": null,
+  "license": "BSD-3-Clause",
+  "version": "31.0.0"
 }
