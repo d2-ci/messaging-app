@@ -1,0 +1,21 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": ".."
+    }
+  },
+  "appType": "APP",
+  "name": "Messaging",
+  "version": "30.0.4",
+  "icons": {
+    "48": "icon.png"
+  },
+  "developer": {
+    "name": "Henning Håkonsen",
+    "company": "DHIS2"
+  },
+  "description": "App for messaging",
+  "manifest_generated_at": "Wed Dec 05 2018 10:44:49 GMT+0000 (UTC)"
+}
