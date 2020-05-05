@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7fc54a28.chunk.css",
+    "main.js": "./static/js/main.d049f2c2.chunk.js",
+    "main.js.map": "./static/js/main.d049f2c2.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/css/2.335e4b44.chunk.css": "./static/css/2.335e4b44.chunk.css",
+    "static/js/2.9f22288a.chunk.js": "./static/js/2.9f22288a.chunk.js",
+    "static/js/2.9f22288a.chunk.js.map": "./static/js/2.9f22288a.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.a03267d099b0c9b6f22e73575ec6d639.js": "./precache-manifest.a03267d099b0c9b6f22e73575ec6d639.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.335e4b44.chunk.css.map": "./static/css/2.335e4b44.chunk.css.map",
+    "static/css/main.7fc54a28.chunk.css.map": "./static/css/main.7fc54a28.chunk.css.map",
+    "static/media/index.css": "./static/media/roboto-latin-900italic.ebf6d164.woff2"
+  }
+}
