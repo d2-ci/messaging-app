@@ -1,2 +1,0 @@
-(this["webpackJsonp@dhis2/app-shell"]=this["webpackJsonp@dhis2/app-shell"]||[]).push([[127],{167:function(p,s,e){"use strict";e.r(s);e(1);s.default=()=>"AppWrapper"}}]);
-//# sourceMappingURL=app.c4394d11.chunk.js.map
