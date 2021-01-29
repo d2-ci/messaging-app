@@ -16,12 +16,13 @@
         "format": "yarn format:js && yarn format:text"
     },
     "dependencies": {
-        "@dhis2/app-runtime": "^2.6.1",
+        "@dhis2/app-runtime": "^2.7.0",
         "history": "^5.0.0",
         "loglevel": "^1.7.0",
         "material-ui": "^0.20.0",
         "material-ui-chip-input": "^0.19.0",
         "material-ui-icons": "1.0.0-beta.36",
+        "path-browserify": "^1.0.1",
         "react-linkify": "^1.0.0-alpha",
         "react-redux": "^7.2.1",
         "react-router-dom": "^5.2.0",
@@ -31,7 +32,7 @@
         "typeface-roboto": "^0.0.75"
     },
     "devDependencies": {
-        "@dhis2/cli-app-scripts": "^5.4.2",
+        "@dhis2/cli-app-scripts": "^5.5.1",
         "@dhis2/cli-style": "^7.2.2",
         "enzyme": "^3.11.0",
         "enzyme-adapter-react-16": "^1.15.5",
