@@ -1,0 +1,8 @@
+{
+  "type": "app",
+  "coreApp": true,
+  "title": "Messaging",
+  "name": "messaging",
+  "description": "An application for sending internal messages",
+  "version": "31.0.0"
+}
