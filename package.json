@@ -16,10 +16,10 @@
         "format": "yarn format:js && yarn format:text"
     },
     "resolutions": {
-        "@dhis2/app-runtime": "2.9.0-alpha.3"
+        "@dhis2/app-runtime": "2.9.0-beta.4"
     },
     "dependencies": {
-        "@dhis2/app-runtime": "^2.9.0-alpha.3",
+        "@dhis2/app-runtime": "^2.9.0-beta.4",
         "@dhis2/d2-i18n": "^1.1.0",
         "@dhis2/ui": "^6.6.2",
         "history": "^4.7.2",
