@@ -1,4 +1,5 @@
 {
+  "app_hub_id": "335eff74-24b5-48db-a5f6-1f488d7847c3",
   "appType": "APP",
   "short_name": "messaging",
   "name": "Messaging",
@@ -15,7 +16,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Thu Nov 18 2021 12:09:50 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Thu Nov 18 2021 12:25:21 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
