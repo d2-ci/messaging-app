@@ -4,7 +4,7 @@
   "short_name": "messaging",
   "name": "Messaging",
   "description": "An application for sending internal messages",
-  "version": "100.0.18",
+  "version": "100.0.19",
   "core_app": true,
   "launch_path": "index.html",
   "default_locale": "en",
@@ -16,7 +16,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Fri Nov 25 2022 01:50:11 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Fri May 12 2023 08:29:26 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
