@@ -6,7 +6,7 @@
   "minDHIS2Version": "2.29",
   "name": "messaging",
   "description": "An application for sending internal messages",
-  "version": "100.0.40",
+  "version": "100.0.41",
   "entryPoints": {
     "app": "index.html"
   }
